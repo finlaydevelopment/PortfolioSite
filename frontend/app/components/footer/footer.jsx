@@ -38,14 +38,14 @@ const Footer = () => {
           </Link>
         </div>
         <div className="flex mt-4 lg:mt-0">
-          <Link href="https://x.com/finlaydev" target="_">
-            <Image src="/assets/x.svg" alt="twitter Logo" width={31} height={31} className="hover:cursor-pointer mx-5" />
+          <Link href="https://www.linkedin.com/in/matthew-finlay-963710180/" target="_">
+            <Image src="/assets/linkedin.svg" alt="LinkedIn Logo" width={31} height={31} className="hover:cursor-pointer mx-5" />
           </Link>
           <Link href="https://www.facebook.com/FinlayDev/" target="_">
             <Image src="/assets/facebook.svg" alt="facebook Logo" width={31} height={31} className="hover:cursor-pointer mx-5" />
           </Link>
-          <Link href="https://www.instagram.com/finlaydev/" target="_">
-            <Image src="/assets/insta.svg" alt="instagram Logo" width={31} height={31} className="hover:cursor-pointer mx-5" />
+          <Link href="https://github.com/finlaydevelopment" target="_">
+            <Image src="/assets/github.svg" alt="Github Logo" width={31} height={31} className="hover:cursor-pointer mx-5" />
           </Link>
         </div>
       </div>
