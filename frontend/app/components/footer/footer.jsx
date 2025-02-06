@@ -143,7 +143,7 @@ const Footer = () => {
       </div>
       <div className="flex flex-col lg:flex-row justify-between items-center px-4 sm:px-8 lg:px-48 py-4 bg-[#A48BBC] text-white">
         <p className="mb-2 lg:mb-0">Made with love from Belfast, Northern Ireland.</p>
-        <p>All Rights © Finlay Development 2024</p>
+        <p>All Rights © Finlay Development 2025</p>
       </div>
     </div>
   );
